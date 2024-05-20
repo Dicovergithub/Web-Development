@@ -1,0 +1,44 @@
+/* Name:Sidra Batool */
+/* Roll No:052 */
+/* Section:B */
+
+
+
+#S1{
+    width: 500px
+   }
+   
+#S2{
+    width: 243px;
+   }
+
+#S3{
+    width: 157px;
+   }
+
+#S4{
+    width: 100px;
+   }
+
+#S5{
+    width: 500px;
+    height: 180px;
+   }
+
+#S6{
+    color: white;
+    background-color: green;
+    border: green;
+    height: 30px;
+    }
+
+#S7{
+    border: 1px lightgray;
+    width: 500px;
+    padding: 20px;
+    background-color: lightgrey;
+    }
+
+.input:hover{
+    border-color:lightseagreen;
+   }
